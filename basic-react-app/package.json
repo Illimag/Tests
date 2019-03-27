@@ -1,0 +1,29 @@
+{
+  "name": "basic-react-app",
+  "version": "1.0.0",
+  "description": "This is how to install ReactJS which is a frontend library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaemnkm/react-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaemnkm/react-test/issues"
+  },
+  "homepage": "https://github.com/jaemnkm/react-test#readme",
+  "devDependencies": {
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  },
+  "dependencies": {
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  }
+}

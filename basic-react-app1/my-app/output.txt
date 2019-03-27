@@ -1,0 +1,4 @@
+
+> my-app@0.1.0 start /mnt/c/Users/thinkpad_User/Desktop/N_DRIVE/git/github/basic-react-app1/my-app
+> react-scripts start
+
